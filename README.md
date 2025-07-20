@@ -2,7 +2,7 @@
 
 ## Description
 
-Mastermind is a guessing game where the user attempts to guess the right code. It is a console-based game writtein in C#. The goal is to guess the secret 4-digit code, where each digit is unique and ranges from 0 to 8.
+Mastermind is a guessing game where the user attempts to guess the right code. It is a console-based game written in C#. The goal is to guess the secret 4-digit code, where each digit is unique and ranges from 0 to 8.
 After each guess, the game returns the number of well-placed pieces, and the number of misplaced pieces. The player has limited number of attempts to get the right code. Game ends once all attempts are exhausted.
 
 ## Features
@@ -12,7 +12,7 @@ After each guess, the game returns the number of well-placed pieces, and the num
 - Input validation ensures user input is 4-digit numbers within a range (0-8).
 - Provides feedback after each attempt to reach the code.
 
-## Requiremenets
+## Requirements
 - .NET 8.0 or later
 - C# Compiler (e.g., available with Visual Studio)
 
